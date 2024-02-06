@@ -1,3 +1,10 @@
+#Background colour randomizer
+This project demonstrates the use of state to change the background to a random colour when clicking a button.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
